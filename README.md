@@ -1,8 +1,9 @@
 🎬 Netflix Data Analytics Project
-📌 Project Overview
 
+📌 Project Overview
 This project analyzes Netflix movies and TV shows data to uncover trends, patterns, and insights using Python and data visualization techniques.
 It focuses on data cleaning, exploratory data analysis (EDA), and storytelling with data, which are essential skills for Data Analyst roles.
+
 
 📊 Dataset Information
 
@@ -22,6 +23,7 @@ Release Year
 
 Rating
 
+
 🛠️ Tools & Technologies Used
 
 Python
@@ -33,6 +35,7 @@ NumPy – Numerical operations
 Matplotlib & Seaborn – Data visualization
 
 Jupyter Notebook
+
 
 🔍 Analysis Performed
 
@@ -47,6 +50,7 @@ Genre-wise content analysis
 Country-wise content distribution
 
 Rating and duration analysis
+
 
 📈 Key Insights
 
